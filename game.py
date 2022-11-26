@@ -7,7 +7,7 @@ def next_turn():
 def check_winner():
     pass
 
- def empty_spaces():
+def empty_spaces():
     pass
 
 def new_game():
