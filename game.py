@@ -14,4 +14,6 @@ def new_game():
     pass
 
 window = Tk()
+window.title("Tic-Tac-Toe")
+players = ["X", "O"]
 window.mainloop()
